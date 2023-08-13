@@ -209,7 +209,11 @@ body {
 .flag__wrap  {
   width: 240px;
 }
+.flag__image {
+  margin-bottom: 24px;
+}
 .flag__title {
+  margin-top: 0;
   color: var(--main-text-color);
   font-size: 18px;
   font-weight: 800;
